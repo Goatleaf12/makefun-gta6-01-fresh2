@@ -1,8 +1,8 @@
 # Port Vesper — 3D Open-World Harbor Action
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty%20gta6--01-ff2d78)](https://make.fun/bounty/gta6-01)
-[![three.js](https://img.shields.io/badge/three.js-0.170.0-000000)](https://threejs.org/)
-[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Goatleaf12/makefun-gta6-01-fresh2/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Goatleaf12/makefun-gta6-01-fresh2/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 **Port Vesper** is a 3D open-world GTA-like set in a rain-slick harbor city, built for the [make.fun gta6-01 bounty](https://make.fun/bounty/gta6-01) ($1,666 prize pool). You are **Nia Kessler**, night courier of Port Vesper — steal cars, dodge the Vesper PD, and run five chained missions to earn your way out of the harbor.
 
